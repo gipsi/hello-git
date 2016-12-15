@@ -18,7 +18,7 @@ Hello git!
 
 08.12.2016
 
-09.12.2016
+09.12.2016 learning to commit
 
 Some gaps need filling in here!
 10.12.2016 #javascript30 challenge 1. CSS + JS Clock
@@ -38,6 +38,6 @@ which is where Ill
 
 15.12.2016 #javascript30 challenge 6. Ajax Type Head
 
-joining Commitmas Challenge
+joining Commitmas-3 Challenge
 
 https://github.com/commitmas/commitmas-3-return-of-commitmas#beginner

@@ -16,14 +16,14 @@ Hello git!
 
 07.12.2016
 
-08.12.2016
+08.12.2016 what is gitignore?
 
-09.12.2016
+09.12.2016 git-electron
 
 Some gaps need filling in here!
 10.12.2016 #javascript30 challenge 1. CSS + JS Clock
 
-forking repositories, posh~git CLI,
+forking spoon-knife repository, posh~git CLI,
 made a github page ... https://github.com/gipsi/gipsi.github.io
 which is where Ill
 
@@ -41,3 +41,5 @@ which is where Ill
 joining Commitmas Challenge
 
 https://github.com/commitmas/commitmas-3-return-of-commitmas#beginner
+
+changed this file to .md
