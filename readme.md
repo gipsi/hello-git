@@ -34,12 +34,16 @@ which is where Ill
 13.12.2016 #javascript30 challenge 4. Array Cardio Day 1
 
 14.12.2016
-#javascript30 challenge 5. Flex Panels Image Gallery
-
+#javascript30 challenge 5. Flex Panels Image Galler
 15.12.2016 #javascript30 challenge 6. Ajax Type Head
 
 joining Commitmas Challenge
 
 https://github.com/commitmas/commitmas-3-return-of-commitmas#beginner
 
+<<<<<<< HEAD
 changed this file to .md
+=======
+16.12.2012 today I'm reading web book by @adactio about making websitesm 
+ making a commit for #commitmas on Android with laggy WiFi is tricky and time consuming but possible 🙆
+>>>>>>> origin/master
