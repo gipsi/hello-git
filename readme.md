@@ -44,6 +44,23 @@ https://github.com/commitmas/commitmas-3-return-of-commitmas#beginner
 <<<<<<< HEAD
 changed this file to .md
 =======
-16.12.2012 today I'm reading web book by @adactio about making websitesm 
+16.12.2016 today I'm reading web book by @adactio about making websitesm 
  making a commit for #commitmas on Android with laggy WiFi is tricky and time consuming but possible 🙆
 >>>>>>> origin/master
+
+17.12.2016  Got rather lost with posh-git terminal. git bash, git-it-electron.  Consulted Stack Overflow and used git mergetool and git gui.
+... and thank you Git! (For giving me this helpful notepad text message)
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   HelloCodeSchoolProject
+#	new file:   gipsi.github.io
+#	new file:   hello-git
+#	modified:   readme.txt
+#
+# Changes not staged for commit:
+#	modified:   hello-git (new commits, modified content)
+#
+Part of my problem stemmed I think from changing this readme file from .txt to .md and then deleting the .txt from the remote repository.  There was a conflict "further up the working tree" which I spent some time trying to fix (an hour++) eventually reinstating the file seemed the easier option.  Lesson learned: be careful what you commit.
+
