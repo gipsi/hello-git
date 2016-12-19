@@ -81,4 +81,5 @@ Part of my problem stemmed I think from changing this readme file from .txt to .
 2016-12-18 Decided to change the way I write dates with the help of this article: http://www.thetechnicalgeekery.com/2013/06/yyyy-mm-dd-the-best-way-to-write-dates/
 
 Doing more exercises in the Git Shell ... still not happening with commiting from there, but I am learning to navigate better after some practice with Appendix A: Command Line Crash Course (part of Learn Python the Hard Way by Zed Shaw) https://learnpythonthehardway.org/book/appendixa.html
-
+2016-12-19 Set Jekyll Theme Leap Day in GitHub Pages for gipsi.github.io
+another daily commit for Commitmas-
