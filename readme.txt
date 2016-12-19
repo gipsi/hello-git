@@ -54,7 +54,9 @@ changed this file to .md
 2016-12-16 today I'm reading web book by @adactio about making websitesm   making a commit for #commitmas on Android with laggy WiFi is tricky and time consuming but possible :ok_woman:
 
 origin/master
-2016-12-17 Got rather lost with posh-git terminal. git bash, git-it-electron. Consulted Stack Overflow and used git mergetool and git gui. ... and thank you Git! (For giving me this helpful notepad text message)
+2016-12-17 Got rather lost with posh-git terminal. git bash, git-it-electron. Consulted Stack Overflow and used git mergetool and git gui. ... and thank you Git
+
+! (For giving me this helpful notepad text message)
 
 Please enter the commit message for your changes. Lines starting
 
@@ -81,3 +83,5 @@ Part of my problem stemmed I think from changing this readme file from .txt to .
 2016-12-18 Decided to change the way I write dates with the help of this article: http://www.thetechnicalgeekery.com/2013/06/yyyy-mm-dd-the-best-way-to-write-dates/
 
 Doing more exercises in the Git Shell ... still not happening with commiting from there, but I am learning to navigate better after some practice with Appendix A: Command Line Crash Course (part of Learn Python the Hard Way by Zed Shaw) https://learnpythonthehardway.org/book/appendixa.html
++2016-12-19 Set Jekyll Theme Leap Day in GitHub Pages for gipsi.github.io
++another daily commit for Commitmas-
