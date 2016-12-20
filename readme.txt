@@ -85,3 +85,8 @@ Part of my problem stemmed I think from changing this readme file from .txt to .
 Doing more exercises in the Git Shell ... still not happening with commiting from there, but I am learning to navigate better after some practice with Appendix A: Command Line Crash Course (part of Learn Python the Hard Way by Zed Shaw) https://learnpythonthehardway.org/book/appendixa.html
 +2016-12-19 Set Jekyll Theme Leap Day in GitHub Pages for gipsi.github.io
 +another daily commit for Commitmas-
+2016-12-20. Pull merge commit practice for Commitmas-3. and yes,  focusing on Git more than code. hence text file. 
+Tried to apply Jekyll Theme to The Bootstrap Template I've been using in CodePen. Really I just want to get get pages up and running and not sure which file in the repository it uses.
+24ways.
+
+
