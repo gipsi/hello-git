@@ -1,8 +1,9 @@
-Hello git!
 
-2016-12-01  I'm going to get to know more about you.
+_Hello git!_
 
-2016-12-02  I'm going to visit every day.
+* 2016-12-01  I'm going to get to know more about you.
+
+* 2016-12-02  I'm going to visit every day.
 
 2016-12-03 I finished the git-it challenges.  Had a go with forks clones and branches and collaborated with a robot!
 @reprorobot ~ meow!.  Pushed and pulled stuff from posh~git, which worked despite a bright yellow "WARNING" that told me
@@ -17,11 +18,11 @@ Hello git!
 
    again again! ... again
    
-2016-12-05
+2016-12-05 #HourOfCode week
 
-2016-12-06
+2016-12-06 12 most retweeted programming quotes
 
-2016-12-07
+2016-12-07 http://fascinated-kitty.gomix.me/
 
 2016-12-08 what is gitignore?
 
@@ -54,7 +55,9 @@ changed this file to .md
 2016-12-16 today I'm reading web book by @adactio about making websitesm   making a commit for #commitmas on Android with laggy WiFi is tricky and time consuming but possible :ok_woman:
 
 origin/master
-2016-12-17 Got rather lost with posh-git terminal. git bash, git-it-electron. Consulted Stack Overflow and used git mergetool and git gui. ... and thank you Git! (For giving me this helpful notepad text message)
+2016-12-17 Got rather lost with posh-git terminal. git bash, git-it-electron. Consulted Stack Overflow and used git mergetool and git gui. ... and thank you Git
+
+! (For giving me this helpful notepad text message)
 
 Please enter the commit message for your changes. Lines starting
 
@@ -81,5 +84,18 @@ Part of my problem stemmed I think from changing this readme file from .txt to .
 2016-12-18 Decided to change the way I write dates with the help of this article: http://www.thetechnicalgeekery.com/2013/06/yyyy-mm-dd-the-best-way-to-write-dates/
 
 Doing more exercises in the Git Shell ... still not happening with commiting from there, but I am learning to navigate better after some practice with Appendix A: Command Line Crash Course (part of Learn Python the Hard Way by Zed Shaw) https://learnpythonthehardway.org/book/appendixa.html
-2016-12-19 Set Jekyll Theme Leap Day in GitHub Pages for gipsi.github.io
-another daily commit for Commitmas-
+
++2016-12-19 Set Jekyll Theme Leap Day in GitHub Pages for gipsi.github.io
++another daily commit for Commitmas-3
+
+2016-12-20. Pull merge commit practice for Commitmas-3. and yes,  focusing on Git more than code. hence text file. 
+
+
+Tried to apply Jekyll Theme to The Bootstrap Template I've been using in CodePen. Really I just want to get get pages up and running and not sure which file in the repository it uses.
+24ways.
+
+2016-12-21 some GitHub Essentials with Mozilla Science Lab https://joeyklee.github.io/friendly-github-intro/guides/github-essentials/
+
+22-12-22 Forked Commitmas and Pybluedot got NASA authentication key
+A lesson in Markdown http://www.markdowntutorial.com/lesson/1/
+
