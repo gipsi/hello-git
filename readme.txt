@@ -96,6 +96,7 @@ Tried to apply Jekyll Theme to The Bootstrap Template I've been using in CodePen
 2016-12-21 some GitHub Essentials with Mozilla Science Lab https://joeyklee.github.io/friendly-github-intro/guides/github-essentials/
 
 22-12-22 Forked Commitmas and Pybluedot got NASA authentication key
+A lesson in Markdown http://www.markdowntutorial.com/lesson/1/
 
 
 
