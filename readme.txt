@@ -88,9 +88,14 @@ Doing more exercises in the Git Shell ... still not happening with commiting fro
 +another daily commit for Commitmas-3
 
 2016-12-20. Pull merge commit practice for Commitmas-3. and yes,  focusing on Git more than code. hence text file. 
+
+
 Tried to apply Jekyll Theme to The Bootstrap Template I've been using in CodePen. Really I just want to get get pages up and running and not sure which file in the repository it uses.
 24ways.
 
 2016-12-21 some GitHub Essentials with Mozilla Science Lab https://joeyklee.github.io/friendly-github-intro/guides/github-essentials/
+
+22-12-22 Forked Commitmas and Pybluedot got NASA authentication key
+
 
 
