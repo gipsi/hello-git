@@ -1,5 +1,24 @@
 Hello git!
 
+* 2016-12-27 Commitmakkuh day 4. Sorting out this page with the help of this page about Markdown (also converts it rather usefully to HTML). Switched Themes a few times now I can do it. Got links to work (the brackets have to be RIGHT next to each other). Details!!! I always end up reading a bit of background stuff to what I'm learning. I am quite sad to read about Aaron Swartz who with John Gruber brought us Markdown
+
+* 2016-12-26 Commitmakkuh day 3. No Commits today but I did read up on some Git essentials on my phone.
+
+* 2016-12-25 Commitmakkuh day 2. Put brackets round links. A commit.
+
+* 2016-12-24 Commitmakkuh day 1. markdown and update readme. (on Android)
+
+* First Day of Commitmakkuh
+
+* 2016-12-23 GotGitHub Pages Theme to work by deleting other files in the repo that seemed to be getting in the way.
+
+* 2016-12-22 Forked Commitmas and Pybluedot got NASA authentication key and ... A lesson in Markdown  
+
+
+
+
+
+
 * 22-12-22 Forked Commitmas and Pybluedot got NASA authentication key
 A lesson in Markdown http://www.markdowntutorial.com/lesson/1/
 
